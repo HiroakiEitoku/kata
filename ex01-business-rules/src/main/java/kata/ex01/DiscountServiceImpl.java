@@ -3,7 +3,6 @@ package kata.ex01;
 import kata.ex01.model.HighwayDrive;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 /**

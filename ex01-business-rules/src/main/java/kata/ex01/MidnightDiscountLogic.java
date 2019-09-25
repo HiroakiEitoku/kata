@@ -5,7 +5,7 @@ import kata.ex01.model.HighwayDrive;
 import java.time.LocalDateTime;
 
 /**
- * 休日割引
+ * 深夜割引
  * - すべての車種
  * - 毎日0〜４時
  * - 30%割引
